@@ -36,6 +36,16 @@
     .dividerImg{
       width: 60%;
     }
+    .dice-btn {
+      width: 50px;
+      margin-top: 380px;
+    }
+    .card1 {
+      background-color: rgb(16, 18, 18)
+    }
+
+  
+    
 
   }
 
